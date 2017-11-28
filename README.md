@@ -8,7 +8,7 @@ Download and install go:
 
 The sql driver (used by the backend server) needs to be downloaded/installed:
 * in the command line run the following code
-__* go get "github.com/go-sql-driver/mysql"
+..* go get "github.com/go-sql-driver/mysql"
 
 Build executable files, run the following code in the command line:
 * go build frontend.go; go build backend.go
